@@ -1,4 +1,4 @@
-public class Main {
+public class Week4 {
     public static void main(String[] args) {
 //        // statement
 //        int sum1 = 3 + 4 * 2;
