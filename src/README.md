@@ -1,51 +1,29 @@
-# Java Basics: Statements, Expressions, Logical Operators, and Conditional Statements
+# Java Conditional Statement and Expression Examples
 
-This repository contains a single Java file `Main.java` which illustrates several core concepts of Java:
+This project contains several classes, each demonstrating different Java concepts including statements, expressions, logical operators, and conditional statements. The main method in each class contains code examples and TODO tasks for you to complete.
 
-1. Statements
-2. Expressions
-3. Logical Operators
-4. Conditional Statements
-5. Chaining and Nesting
-6. Flag Variables
+## Overview of Classes
 
-Each concept is clearly marked within the code with comments.
+1. **StatementsExample**: This class introduces Java statements. You'll work with an expression statement, a declaration statement, and a control flow statement.
 
-## Getting Started
+2. **ExpressionsExample**: This class explores different types of expressions in Java, including arithmetic expressions, String expressions, and Boolean expressions.
+
+3. **LogicalOperatorsExample**: This class demonstrates the use of logical operators in Java. You'll work with Boolean values and a control flow statement that uses the logical AND and NOT operators.
+
+4. **ConditionalStatementsExample**: This class introduces conditional statements in Java, specifically if-else and switch statements. You'll use these statements to control the flow of execution based on different conditions.
+
+5. **AdvancedConditionalStatementsExample**: This class explores advanced conditional statements, including chaining and nesting of if-else statements.
+
+6. **FlagVariablesExample**: This class introduces flag variables in Java. You'll work with a Boolean flag variable that changes its value based on a condition.
+
+## Instructions
 
 1. Clone this repository to your local machine.
+2. Open each class in your preferred Java IDE (like IntelliJ IDEA, Eclipse, or NetBeans).
+3. Review the code and complete the TODO tasks in each class. The tasks are designed to get you to experiment with the code and observe the changes in output.
+4. Run each class separately to see the output in your IDE's console.
 
-```bash
-git clone <url of this repo>
-```
-
-Open the project in your favorite Java IDE (like IntelliJ IDEA or Eclipse).
-Open the `Main.java` file.
-
-#### Opening the Project in IntelliJ IDEA
-
-1. Open IntelliJ IDEA.
-2. Click on `File > Open`.
-3. Navigate to the location of the cloned repository.
-4. Select the project folder and click `OK`.
-5. In the Project Explorer on the left, open the `Main.java` file.
-
-
-## Exploring the Code
-
-Within `Main.java`, you'll find examples for each of the topics we've covered. Here's what you can do to further understand these concepts:
-
-**Statements**: Look at the different types of statements in the code. Try adding your own statements, both declarations and control flow statements.
-
-**Expressions**: Try modifying the expressions given in the code, and check if the output matches your expectations.
-
-**Logical Operators**: Experiment with the given boolean variables and operators. Try adding more conditions and see how the output changes.
-
-**Conditional Statements**: Examine the if-else and switch statements. Try modifying the conditions and see what happens. Add some more cases in the switch statement.
-
-**Chaining and Nesting**: Look at the if-else-if chain and the nested if statement. Try changing the values and conditions to see what the output will be. Try adding more levels of nesting.
-
-**Flag Variables**: Understand how the flag variable is used to control access based on a condition. Try using a flag variable in a different scenario.
+Happy coding!
 
 <br>
 
@@ -55,6 +33,3 @@ Within `Main.java`, you'll find examples for each of the topics we've covered. H
 
 If you have any questions or run into issues, please open an issue in this repository, and I'll be happy to help!
 
-
-
-Remember to replace `<url of this repo>` with the actual URL of your GitHub repository.
