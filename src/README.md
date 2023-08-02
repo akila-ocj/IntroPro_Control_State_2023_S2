@@ -22,6 +22,15 @@ git clone <url of this repo>
 Open the project in your favorite Java IDE (like IntelliJ IDEA or Eclipse).
 Open the `Main.java` file.
 
+#### Opening the Project in IntelliJ IDEA
+
+1. Open IntelliJ IDEA.
+2. Click on `File > Open`.
+3. Navigate to the location of the cloned repository.
+4. Select the project folder and click `OK`.
+5. In the Project Explorer on the left, open the `Main.java` file.
+
+
 ## Exploring the Code
 
 Within `Main.java`, you'll find examples for each of the topics we've covered. Here's what you can do to further understand these concepts:
